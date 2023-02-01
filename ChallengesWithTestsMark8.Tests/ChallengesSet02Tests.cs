@@ -6,7 +6,7 @@ namespace ChallengesWithTestsMark8.Tests
     public class ChallengesSet02Tests
     {
         [Fact]
-        public void CharacterIsALetter()
+        public void CharacterisALetter()
         {
             // Arrange
             ChallengesSet02 challenger = new ChallengesSet02();
